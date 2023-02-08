@@ -1,0 +1,36 @@
+
+
+/*
+    Em HTML é id = em CSS é #
+    Em HTML é cçass = em CSS é .
+*/
+
+body {
+    background-color:#234026;
+}
+
+h1{
+    color: #69BF72;
+}
+
+h1#principal{
+    text-align: center;
+    background-color:#69BF72;
+    color:black;
+}
+
+h2{
+    color: #8DFF98;
+}
+.basico{
+    color: #69BF72;
+}
+.intermediario{
+    color: red;
+}
+.avancado{
+    color: blue;
+}
+.destaque{
+    background-color: rgb(136, 136, 78);
+}
